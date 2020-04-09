@@ -1,0 +1,1 @@
+export const domainPATH = 'http://localhost:3001'
